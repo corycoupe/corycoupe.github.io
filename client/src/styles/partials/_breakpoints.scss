@@ -1,0 +1,21 @@
+@mixin tablet {
+  @media (min-width: $tablet-width) {
+    @content;
+  }
+}
+@mixin mobile-landscape {
+  @media (min-width: $mobile-landscape-width) {
+    @content;
+  }
+}
+@mixin laptop {
+  @media (min-width: $laptop-width) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: $desktop-width) {
+    @content;
+  }
+}

@@ -1,0 +1,27 @@
+@import 'partials/home';
+@import 'partials/global';
+@import 'partials/cards';
+@import 'partials/contact';
+@import 'partials/about';
+@import 'partials/skills';
+
+* {
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none !important;
+}
+body {
+  margin: 0;
+  width: 100%;
+  overflow-y: scroll;
+}
+
+$theme-colors: (
+  'primary': #fbf2da,
+  'secondary': #152b3c,
+  'info': #39ff14,
+  'success': #0000a0,
+);
+
+@import '../../node_modules/bootstrap/scss/bootstrap';
