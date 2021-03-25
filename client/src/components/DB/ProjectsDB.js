@@ -11,7 +11,7 @@ const ProjectsDB = [
     description:
       'A website designed to allow mental health professionals easier access to their patients during the COVID-19 pandemic.',
     image: clear,
-    github: 'https://github.com/corycoupe/Clear-Skies',
+    github: 'https://github.com/corycoupe/Clear-Skies-Redux',
     demo: '',
   },
   {
