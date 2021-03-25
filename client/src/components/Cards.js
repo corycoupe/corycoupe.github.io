@@ -35,11 +35,7 @@ const Cards = (props) => {
                       <button type='button' class='btn btn-outline-info'>
                         View Project
                       </button>
-                      <a
-                        target='_blank'
-                        href={project.github}
-                        rel='noopener noreferrer'
-                      >
+                      <a href={project.github} rel='noopener noreferrer'>
                         <button type='button' class='btn btn-outline-success'>
                           View Github
                         </button>
