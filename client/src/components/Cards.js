@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import ProjectsDB from './DB/ProjectsDB';
 
 const Cards = (props) => {
@@ -34,9 +35,11 @@ const Cards = (props) => {
                       <button type='button' class='btn btn-outline-info'>
                         View Project
                       </button>
-                      <button type='button' class='btn btn-outline-success'>
-                        View Github
-                      </button>
+                      <Link to={project.github}>
+                        <button type='button' class='btn btn-outline-success'>
+                          View Github
+                        </button>
+                      </Link>
                     </div>
                   </div>
                 </div>
