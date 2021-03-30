@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.de45e250.chunk.css",
-    "main.js": "/static/js/main.9b096929.chunk.js",
-    "main.js.map": "/static/js/main.9b096929.chunk.js.map",
+    "main.css": "/static/css/main.0f74e518.chunk.css",
+    "main.js": "/static/js/main.6d40f1e1.chunk.js",
+    "main.js.map": "/static/js/main.6d40f1e1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3ecc8515.js",
     "runtime-main.js.map": "/static/js/runtime-main.3ecc8515.js.map",
     "static/js/2.467bfec2.chunk.js": "/static/js/2.467bfec2.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.2d888753.chunk.js": "/static/js/3.2d888753.chunk.js",
     "static/js/3.2d888753.chunk.js.map": "/static/js/3.2d888753.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.de45e250.chunk.css.map": "/static/css/main.de45e250.chunk.css.map",
+    "static/css/main.0f74e518.chunk.css.map": "/static/css/main.0f74e518.chunk.css.map",
     "static/js/2.467bfec2.chunk.js.LICENSE.txt": "/static/js/2.467bfec2.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/static/media/Yellowtail-Regular.52d25579.ttf",
     "static/media/Brainflix.8da7cb3b.png": "/static/media/Brainflix.8da7cb3b.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.3ecc8515.js",
     "static/js/2.467bfec2.chunk.js",
-    "static/css/main.de45e250.chunk.css",
-    "static/js/main.9b096929.chunk.js"
+    "static/css/main.0f74e518.chunk.css",
+    "static/js/main.6d40f1e1.chunk.js"
   ]
 }
