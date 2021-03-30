@@ -12,7 +12,7 @@ const ProjectsDB = [
       'A website designed to allow mental health professionals easier access to their patients during the COVID-19 pandemic.',
     image: clear,
     github: 'https://github.com/corycoupe/Clear-Skies-Redux',
-    demo: '',
+    demo: 'https://floating-sands-30641.herokuapp.com/',
   },
   {
     id: uuidv4(),
@@ -21,7 +21,7 @@ const ProjectsDB = [
       'A facebook-like app used to connect Devs of different disciplines with forum, profile and user functionality.',
     image: devfinder,
     github: 'https://github.com/corycoupe/MERN-Practice',
-    demo: '',
+    demo: 'https://desolate-refuge-27725.herokuapp.com/',
   },
   {
     id: uuidv4(),
@@ -30,7 +30,7 @@ const ProjectsDB = [
       "A website designed to showcase a band's biography as well as their tickets and venues.",
     image: bandsite,
     github: 'https://github.com/corycoupe/Bandsite-Project',
-    demo: '',
+    demo: 'https://bandsite-deploy.herokuapp.com/',
   },
   {
     id: uuidv4(),
@@ -39,7 +39,7 @@ const ProjectsDB = [
       "A Youtube clone used to show off some of it's functionality and layout.",
     image: brainflix,
     github: 'https://github.com/corycoupe/Brainflix-Project',
-    demo: '',
+    demo: 'https://brainflix-deploy.herokuapp.com/videos',
   },
 ];
 export default ProjectsDB;

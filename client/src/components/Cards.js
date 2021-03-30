@@ -32,9 +32,11 @@ const Cards = (props) => {
                     <h5 className='content-title'>{project.name}</h5>
                     <p className='content-text'>{project.description}</p>
                     <div className='link-div'>
-                      <button type='button' class='btn btn-outline-info'>
-                        View Project
-                      </button>
+                      <a href={project.demo} rel='noopener noreferrer'>
+                        <button type='button' class='btn btn-outline-info'>
+                          View Project
+                        </button>
+                      </a>
                       <a href={project.github} rel='noopener noreferrer'>
                         <button type='button' class='btn btn-outline-success'>
                           View Github
