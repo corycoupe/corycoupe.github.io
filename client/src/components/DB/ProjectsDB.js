@@ -3,8 +3,28 @@ import clear from '../../assets/images/Clear-skies.png';
 import bandsite from '../../assets/images/bandsite-cover.png';
 import brainflix from '../../assets/images/Brainflix.png';
 import devfinder from '../../assets/images/devfinder.png';
+import alliedvoices from '../../assets/images/Allied-voices.png';
+import billionminds from '../../assets/images/8billionminds.png';
 
 const ProjectsDB = [
+  {
+    id: uuidv4(),
+    name: 'ALLIED VOICES',
+    description:
+      'Website that helps users navigate their racial landscape through geographic data, individual stories, and supportive resources.',
+    image: alliedvoices,
+    github: 'https://github.com/Allied-Voices',
+    demo: 'https://www.alliedvoices.org/',
+  },
+  {
+    id: uuidv4(),
+    name: '8BILLIONMINDS',
+    description:
+      'A free online interactive learning platform where you can learn, teach and chat about almost anything.',
+    image: billionminds,
+    github: 'https://gitlab.com/8billionminds-group/8billionminds',
+    demo: 'https://www.8billionminds.com/',
+  },
   {
     id: uuidv4(),
     name: 'CLEAR SKIES',
